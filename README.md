@@ -1,4 +1,4 @@
-A Sunday Predictive Maintenance Project by Oliver Kele
+## A Sunday Predictive Maintenance Project by Oliver Kele
 
 In this workbook, I'll be working with a synthetic predictive maintenance dataset from Kaggle (https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification). This dataset was created by UC Irvine to allow machine learning students to work with realistic predictive maintenance data, which is usually difficult to obtain (https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset).
 
